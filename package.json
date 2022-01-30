@@ -1,0 +1,24 @@
+{
+  "name": "Lab02_101197834_COMP3133",
+  "version": "1.0.0",
+  "description": "Lab Exercise 2 - COMP 3133",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junnysmiles/Lab02_101197834_COMP3133.git"
+  },
+  "keywords": [],
+  "author": "Jun Yan Gan - 101197834",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junnysmiles/Lab02_101197834_COMP3133/issues"
+  },
+  "homepage": "https://github.com/junnysmiles/Lab02_101197834_COMP3133#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0"
+  }
+}
